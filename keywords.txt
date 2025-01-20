@@ -1,0 +1,105 @@
+[Fraud & Scam]
+hilang
+gak ada
+penipu
+awas
+bobol
+raib
+ludes
+dicuri
+fraud
+scam
+palsu
+bodong
+waspada
+hati2
+hati-hati
+phising
+skimming
+social enginering
+soceng
+link
+trapping
+kembalikan
+
+[Error/Gagal Transaksi & Sistem]
+gagal
+tidak berhasil
+decline
+gak masuk
+tidak masuk
+tidak diterima
+gak ada
+tidak ada
+gak diterima
+gak bisa
+tidak bisa
+kepotong
+dipotong
+potong
+kendala
+masalah
+status berhasil
+terpotong
+
+[Penanganan Pengaduan]
+call center
+melaporkan
+lapor
+pelaporan
+aduan
+pengaduan
+diproses
+proses
+telfon
+telepon
+tlpn
+email
+disuruh
+suruh
+tunggu
+nunggu
+berkali2
+berhari2
+respon
+ribet
+gimana sih
+tolong balas
+tolong bales
+bales
+terima kasih
+
+[Perlindungan Data]
+data
+perlindungan
+perlindungan data
+data pribadi
+data protection
+protection
+menjamin
+keamanan
+kebocoran
+data nasabah
+keamanan siber
+siber
+cybersecurity
+privasi
+data bank
+pencurian data
+
+[Keterbukaan dan Transparansi]
+promo
+gak jelas
+php
+dibohongi
+cashback
+bohongin
+gak sesuai
+info
+tipuan
+menarik pembeli
+katanya
+ 
+
+
+
