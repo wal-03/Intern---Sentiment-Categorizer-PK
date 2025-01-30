@@ -1,0 +1,12 @@
+[Positif]
+love
+amazing
+
+[Negatif]
+worst
+hate
+terrible
+
+[Neutral]
+okay
+nothing special
