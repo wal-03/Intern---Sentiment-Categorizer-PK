@@ -1,6 +1,7 @@
 [Positif]
 love
 amazing
+good product
 
 [Negatif]
 worst
