@@ -1,0 +1,162 @@
+[Positive]
+fantastic
+perfect
+amazing
+loved
+exceeded
+expectations
+excellent
+recommend
+great
+best
+ever
+friendly
+helpful
+kind
+happy
+purchase
+satisfied
+inspiring
+moving
+insightful
+breathtaking
+beautiful
+stunning
+wonderful
+easy
+effective
+useful
+highly recommend
+delicious
+outstanding
+top-notch
+game-changer
+innovative
+revolutionary
+impressed
+results
+positive
+exactly
+ideal
+fast
+quick
+efficient
+attention to detail
+meticulous
+thorough
+made my day
+joyful
+can't wait
+excited
+eager
+worth it
+valuable
+amazing (customer support)
+responsive (customer support)
+fan
+love
+support
+must-have
+essential
+necessary
+glad
+fortunate
+great value
+affordable
+reasonable
+
+[Negative]
+terrible
+broken
+awful
+disappointed
+poor
+bad
+waste of time
+disgusting
+inedible
+rude
+unhelpful
+impolite
+frustrated
+doesn't work
+boring
+poorly written
+dull
+unacceptable
+low quality
+buggy
+crashes
+unreliable
+not recommend
+slow
+late
+delayed
+unsatisfactory
+misleading
+different
+unresponsive (customer support)
+upset
+angry
+dissatisfied
+rip-off
+overpriced
+scam
+regret
+unhappy
+disaster
+avoid
+dislike
+damaged
+defective
+not worth it
+extremely dissatisfied
+very unhappy
+worst experience
+never again
+
+[Neutral]
+okay
+average
+decent
+as described
+accurate
+expected
+adequate
+satisfactory
+acceptable
+standard
+polite
+courteous
+respectful
+informative
+factual
+educational
+nice
+pleasant
+agreeable
+neutral
+uneventful
+functional
+works
+usable
+fine
+normal
+on time
+punctual
+prompt
+anticipated
+predictable
+helpful (customer support)
+reasonable (price)
+fair (price)
+meets requirements
+clear
+concise
+easy to understand
+sufficient
+typical
+common
+unremarkable
+ordinary
+indifferent
