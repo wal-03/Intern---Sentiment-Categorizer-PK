@@ -2,6 +2,7 @@
 love
 amazing
 good product
+the best
 
 [Negatif]
 worst
@@ -11,3 +12,4 @@ terrible
 [Neutral]
 okay
 nothing special
+good nor bad
