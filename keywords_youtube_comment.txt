@@ -1,0 +1,129 @@
+[Neutral]
+Apple Pay
+iPhone
+Technology
+Retailers
+Contactless payment
+User base
+Fees
+Adoption
+Market trends
+College students
+Budget alternatives
+Gadgets
+Laptops
+Smartphones
+Dashcams
+Kickstarter
+Startups
+Hiring freeze
+Tech industry
+Economic trends
+
+[Negative]
+High fees
+Burnout
+Overpriced
+Scams
+Layoffs
+Disappointment
+Inconvenience
+Stress
+Misleading information
+Poor quality
+Frustration
+Exploitation
+Unreliable
+Slowdown
+Recession
+Overpaid employees
+Unaffordable
+Disruption
+Negative reviews
+Unrealistic expectations
+
+[Positive]
+Convenience
+Innovation
+Quality
+Affordable
+Exciting
+Game-changer
+Passionate
+Knowledgeable
+Helpful
+Inspiring
+Growth
+Success
+Supportive
+Fun
+Engaging
+Educational
+Reliable
+Efficient
+Upgrades
+Positive feedback[Neutral]
+Apple Pay
+iPhone
+Technology
+Retailers
+Contactless payment
+User base
+Fees
+Adoption
+Market trends
+College students
+Budget alternatives
+Gadgets
+Laptops
+Smartphones
+Dashcams
+Kickstarter
+Startups
+Hiring freeze
+Tech industry
+Economic trends
+
+[Negative]
+High fees
+Burnout
+Overpriced
+Scams
+Layoffs
+Disappointment
+Inconvenience
+Stress
+Misleading information
+Poor quality
+Frustration
+Exploitation
+Unreliable
+Slowdown
+Recession
+Overpaid employees
+Unaffordable
+Disruption
+Negative reviews
+Unrealistic expectations
+
+[Positive]
+Convenience
+Innovation
+Quality
+Affordable
+Exciting
+Game-changer
+Passionate
+Knowledgeable
+Helpful
+Inspiring
+Growth
+Success
+Supportive
+Fun
+Engaging
+Educational
+Reliable
+Efficient
+Upgrades
+Positive feedback
