@@ -1,5 +1,8 @@
 [Neutral]
+is okay
+good nor bad
 Apple Pay
+fine
 iPhone
 Technology
 Retailers
@@ -55,6 +58,7 @@ Pixel
 
 [Negative]
 High fees
+worst
 Burnout
 Overpriced
 Scams
@@ -136,8 +140,11 @@ Culture
 Fit
 HR
 Lawyer
+terrible
+poor quality
 
 [Positive]
+the best thing
 Convenience
 Innovation
 Quality
