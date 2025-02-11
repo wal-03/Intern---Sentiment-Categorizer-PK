@@ -103,3 +103,150 @@ katanya
 
 
 
+[Kendala Operasinal - Bank]
+sistem bank
+sistem perbankan
+transfer
+pindah buku
+permindahan buku
+debit
+dana belum terima
+dana tidak masuk
+mbanking
+ebanking
+m-banking
+e-banking
+QRIS
+QR
+BI-FAST
+RTGS
+kliring
+mastercard
+kartu visa
+visa card
+mobile banking
+CC
+kartu kredit
+kartu debit
+kartu debet
+kartu atm
+@bankbca
+@bankbri_id
+@bankbtn
+@bankbtncare
+@bankmandiri
+@bni
+@goodlifebca
+@halobca
+@jeniusconnect
+@tanyajago
+@mandiricare
+@bnicustomercare
+@cimbniaga
+@kontakbri
+@tanyaocbcnisp
+@jadijago
+@maybankid
+@linkaja
+@bankbsi_id
+@bankneocommerce
+@linebankid
+@danamon
+@hellodanamon
+@bankmuamalat
+@paninbank
+@jeniushelp
+@promo_bri
+@permatacare
+@permatabank
+mncbank
+@bankmegaid
+@banksampoerna
+@hsbc_id
+@infobankbjb
+@bank_dki
+@bank_jatim
+@bank_indonesia
+digibank
+payment gateway
+nasabah
+pinjol
+pinjaman online
+brimo
+jalin.id
+citimobile
+deutsche bank mobile
+sc mobile indonesia
+livin mandiri
+bni mobile
+btn mobile banking
+btn mobile
+agi Mobile
+bca syariah mobile
+octo mobile
+d-mobile
+bjb digi
+m-smile
+motionbanking
+nobu neo
+nobuneo
+neobank
+one mobile
+blu digital
+bca mobile
+mobile bank
+mobilepanin
+mobile panin
+permata mobile x
+permatamobile
+jenius app
+aplikasi jenius
+bsi mobile
+gangguan
+isu
+issue
+kendala
+gabisa
+gk bisa
+gak bisa
+tidak bisa
+ngga bisa
+nggak bisa
+gbs
+gbisa
+komplain
+maintenance
+tolong
+24 jam
+24jam
+1hari
+sehari
+seharian
+offline
+down
+gaji
+eror
+error
+trouble
+slow
+lambat
+masalah
+bermasalah
+trabel
+trobel
+sulit
+susah
+kesusahan
+kesulitan
+gagal
+tidak berhasil
+log in
+login
+sistem
+aplikasi
+apps
+app
+server
+web
+website
+platform
