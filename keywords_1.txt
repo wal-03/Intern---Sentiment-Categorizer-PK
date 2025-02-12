@@ -145,3 +145,9 @@ server
 web
 website
 platform
+
+
+
+
+[Positive]
+berkah
