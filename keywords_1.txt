@@ -191,3 +191,5 @@ travellers
 sepak
 sepak bola
 bola
+promo
+promonya
