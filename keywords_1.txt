@@ -147,8 +147,9 @@ website
 platform
 lebih lanjut
 pengecekan
-
-
+kepotongnya
+kendalanya
+errorsob
 
 
 [Positive]
@@ -175,3 +176,18 @@ kkn
 park
 bitcoin
 proof
+basketball
+imlek
+salmon
+birthday
+tournament
+ukt
+cewe
+sloth
+donald
+vario
+travelers
+travellers
+sepak
+sepak bola
+bola
