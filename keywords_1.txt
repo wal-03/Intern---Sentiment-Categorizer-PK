@@ -1,4 +1,4 @@
-[Kendala Operasinal - Bank]
+[Kendala Operasional - Bank]
 sistem bank
 sistem perbankan
 transfer
