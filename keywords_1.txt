@@ -145,9 +145,19 @@ server
 web
 website
 platform
+lebih lanjut
+pengecekan
 
 
 
 
 [Positive]
 berkah
+
+
+
+
+
+[Fraud/Penipuan]
+pencurian
+penipuan
