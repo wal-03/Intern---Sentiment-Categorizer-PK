@@ -22,6 +22,10 @@ link
 trapping
 kembalikan
 
+
+
+
+
 [Error/Gagal Transaksi & Sistem]
 gagal
 tidak berhasil
@@ -41,6 +45,10 @@ kendala
 masalah
 status berhasil
 terpotong
+
+
+
+
 
 [Penanganan Pengaduan]
 call center
@@ -69,6 +77,10 @@ tolong bales
 bales
 terima kasih
 
+
+
+
+
 [Perlindungan Data]
 data
 perlindungan
@@ -87,6 +99,10 @@ privasi
 data bank
 pencurian data
 
+
+
+
+
 [Keterbukaan dan Transparansi]
 promo
 gak jelas
@@ -103,7 +119,7 @@ katanya
 
 
 
-[Kendala Operasinal - Bank]
+[Kendala Operasional - Bank]
 sistem bank
 sistem perbankan
 transfer
