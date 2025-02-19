@@ -1,4 +1,70 @@
 [Fraud & Scam]
+penipuan
+fraud
+bobol
+dibobol
+kebobol
+pembobolan
+raib
+ludes
+scam
+penipu
+pnipu
+palsu
+bodong
+waspada
+hati-hati
+hati2
+phising
+phishing
+skimming
+social enginering
+soceng
+dijebak
+jebakan
+kembalikan
+link palsu
+tertipu
+ketipu
+nipu
+terkuras
+dikuras
+quishing
+modus
+nasabah
+rekening
+app
+aplikasi
+akses
+login
+tabungan
+bank
+perbankan
+ATM
+banking
+mbanking
+ebanking
+duit
+saldo
+debit
+debet
+QRIS
+QR
+BI-FAST
+RTGS
+kliring
+transfer dana
+transfer uang
+kartu kredit
+credit card
+mastercard
+visa
+transaksi
+digibank
+payment gateway
+carding
+OTP
+SMS
 hilang
 gak ada
 penipu
@@ -7,20 +73,8 @@ bobol
 raib
 ludes
 dicuri
-fraud
-scam
-palsu
-bodong
-waspada
-hati2
-hati-hati
-phising
-skimming
-social enginering
-soceng
-link
-trapping
-kembalikan
+ngaku2
+kehilangan
 
 
 
@@ -76,6 +130,8 @@ tolong balas
 tolong bales
 bales
 terima kasih
+thank you
+makasih
 
 
 
@@ -115,6 +171,7 @@ info
 tipuan
 menarik pembeli
 katanya
+ditangani
  
 
 
@@ -266,3 +323,50 @@ server
 web
 website
 platform
+
+
+
+
+[Costumer Education]
+peduli
+kenali
+adukan
+pedulikenaliadukan
+konsumen cerdas peka bertransaksi
+#konsumencerdaspekabertransaksi
+konsumencerdaspekabertransaksi
+perlindungan konsumen bank indonesia
+#PerlindunganKonsumenBI
+PerlindunganKonsumenBI
+#JagaBaikBaik
+JagaBaikBaik
+#BRIEdukasi
+#PahamJadiTenang
+perlindungankonsumenbankindonesia
+pelindungan konsumen bank indonesia
+pelindungankonsumenbankindonesia
+perlindungan konsumen BI
+perlindungankonsumenBI
+pelindungan konsumen BI
+pelindungankonsumenBI
+keamanan data pribadi
+konsumen yang PeKA
+konsumen cerdas
+#GeberPK
+GeberPK
+#GeberPKNusantara
+#GenPK
+GenPK
+#GenGeberPK
+GenGeberPK
+jaga data pribadi
+kombinasi angka
+perkuat kode keamanan
+lindungi informasi data pribadi
+selalu hati-hati
+tahukah
+edukasi
+waspada
+bank
+modus
+jud0l
