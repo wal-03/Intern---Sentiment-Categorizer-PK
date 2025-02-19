@@ -167,7 +167,6 @@ dibohongi
 cashback
 bohongin
 gak sesuai
-info
 tipuan
 menarik pembeli
 katanya
@@ -394,3 +393,43 @@ d
 hack
 hacking
 hacker
+
+
+[Nice info]
+makasih infonya
+info
+infonya
+thank you infonya
+alhamdulillah
+mantap
+keren
+sukses
+aamiin
+selalu di depan
+mantappppp
+wah
+informatif
+informasinya
+
+
+
+
+[Khawatir]
+ngeri
+tidak bertanggung jawab
+bertanggung
+
+
+
+
+[Pertanyaan]
+nanya
+bertanya
+tanya
+siapa nih
+via
+via apa
+berapa
+dimana
+percaya gak
+masih adakah
