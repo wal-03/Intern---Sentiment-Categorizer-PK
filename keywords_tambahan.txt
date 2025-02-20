@@ -425,6 +425,7 @@ salam
 semangat
 semakinnn
 semakin
+siap
 
 
 
@@ -448,9 +449,11 @@ bertanya
 tanya
 mau tanya
 siapa nih
+nih
 via
 via apa
 berapa
+berapa ya
 dimana
 percaya gak
 masih adakah
@@ -459,17 +462,25 @@ kah
 seperti ini
 apa ada
 apa
-spt ini
+spt
 dari atas
 balas
+bale
 bales
 tebak
 terusin
 teruskan
+ya sobat
+siang
+pagi
+malam
+sore
+halo
+isinya
 
 
 
-[Selamat]
+[Congratulation]
 selamat
 congrast
 congrats
@@ -478,3 +489,14 @@ congrats
 [Permintaan]
 help
 tolong
+harapan
+
+
+
+[Oke]
+oke
+ok
+
+
+[Tidak ada message]
+nan
