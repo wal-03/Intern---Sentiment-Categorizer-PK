@@ -130,6 +130,7 @@ tolong balas
 tolong bales
 bales
 terima kasih
+terimakasih
 thank you
 makasih
 
@@ -385,8 +386,13 @@ diraba
 diterawang
 jawabannya
 jawaban
+jawaban nya
 jawab
 d
+dkerugian
+dilihatdirabaditerawang
+
+
 
 
 [Hacking]
@@ -398,6 +404,8 @@ hacker
 [Nice info]
 makasih infonya
 info
+nice
+infoo
 infonya
 thank you infonya
 alhamdulillah
@@ -405,11 +413,18 @@ mantap
 keren
 sukses
 aamiin
+amin
 selalu di depan
 mantappppp
 wah
 informatif
 informasinya
+selalu di depan
+noted
+salam
+semangat
+semakinnn
+semakin
 
 
 
@@ -418,14 +433,20 @@ informasinya
 ngeri
 tidak bertanggung jawab
 bertanggung
+ngerii
 
 
 
 
 [Pertanyaan]
 nanya
+siapa
+dimana
+mengapa
+bagaimana
 bertanya
 tanya
+mau tanya
 siapa nih
 via
 via apa
@@ -433,3 +454,27 @@ berapa
 dimana
 percaya gak
 masih adakah
+berapa
+kah
+seperti ini
+apa ada
+apa
+spt ini
+dari atas
+balas
+bales
+tebak
+terusin
+teruskan
+
+
+
+[Selamat]
+selamat
+congrast
+congrats
+
+
+[Permintaan]
+help
+tolong
