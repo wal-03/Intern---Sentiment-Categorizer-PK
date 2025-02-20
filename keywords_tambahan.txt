@@ -477,6 +477,7 @@ malam
 sore
 halo
 isinya
+bernama
 
 
 
