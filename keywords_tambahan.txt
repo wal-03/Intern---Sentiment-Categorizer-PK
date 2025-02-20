@@ -401,6 +401,8 @@ hacking
 hacker
 
 
+
+
 [Nice info]
 makasih infonya
 info
@@ -426,6 +428,8 @@ semangat
 semakinnn
 semakin
 siap
+agree
+baguspaag
 
 
 
@@ -435,6 +439,7 @@ ngeri
 tidak bertanggung jawab
 bertanggung
 ngerii
+semoga
 
 
 
@@ -476,13 +481,16 @@ pagi
 malam
 sore
 halo
+hy
 isinya
 bernama
-
+biaya admin
+bukan
 
 
 [Congratulation]
 selamat
+congrat
 congrast
 congrats
 
@@ -491,6 +499,7 @@ congrats
 help
 tolong
 harapan
+mohon
 
 
 
