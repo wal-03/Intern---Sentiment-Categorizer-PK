@@ -75,6 +75,7 @@ ludes
 dicuri
 ngaku2
 kehilangan
+amblas
 
 
 
@@ -325,7 +326,7 @@ website
 platform
 belum kembali
 belum terkirim
-
+ga bisa dibuka
 
 
 
@@ -430,6 +431,8 @@ semakin
 siap
 agree
 baguspaag
+suka
+sukaa
 
 
 
@@ -445,11 +448,17 @@ semoga
 
 
 [Pertanyaan]
+kenapa
+apakah
 nanya
 siapa
 dimana
 mengapa
 bagaimana
+gimana
+gimna
+gmna
+gmn
 bertanya
 tanya
 mau tanya
@@ -459,6 +468,10 @@ via
 via apa
 berapa
 berapa ya
+brp
+brp yaa
+brpa
+btw
 dimana
 percaya gak
 masih adakah
@@ -467,6 +480,8 @@ kah
 seperti ini
 apa ada
 apa
+ada
+gak
 spt
 dari atas
 balas
@@ -486,6 +501,7 @@ isinya
 bernama
 biaya admin
 bukan
+apaan
 
 
 [Congratulation]
@@ -500,7 +516,12 @@ help
 tolong
 harapan
 mohon
-
+periksa
+cek
+dm
+plis
+please
+pleaseee
 
 
 [Oke]
