@@ -101,6 +101,8 @@ kendala
 masalah
 status berhasil
 terpotong
+setoran
+tarik tunai
 
 
 
@@ -301,6 +303,7 @@ offline
 down
 gaji
 eror
+erorr
 error
 trouble
 slow
@@ -328,6 +331,7 @@ platform
 belum kembali
 belum terkirim
 ga bisa dibuka
+lelet
 
 
 
@@ -434,7 +438,10 @@ agree
 baguspaag
 suka
 sukaa
-
+akhirnya
+barakallah
+masya allah
+subhanallah
 
 
 
@@ -458,6 +465,7 @@ mengapa
 bagaimana
 gimana
 gimna
+gmana
 gmna
 gmn
 bertanya
@@ -503,6 +511,14 @@ bernama
 biaya admin
 bukan
 apaan
+ya
+bisa ga
+bisa gg
+masih berlaku
+masi berlaku
+
+
+
 
 
 [Congratulation]
@@ -510,6 +526,9 @@ selamat
 congrat
 congrast
 congrats
+marhaban
+
+
 
 
 [Permintaan]
@@ -523,6 +542,12 @@ dm
 plis
 please
 pleaseee
+berikan
+tambahkan
+tambahin
+perbaiki
+
+
 
 
 [Oke]
